@@ -1,0 +1,3 @@
+from submission import compare_changed_MDP, originalMDP, newThresholdMDP, blackjackFeatureExtractor
+
+compare_changed_MDP(original_mdp=originalMDP, modified_mdp=newThresholdMDP, featureExtractor=blackjackFeatureExtractor)
